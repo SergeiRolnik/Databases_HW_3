@@ -1,9 +1,9 @@
 insert into artists(name) values('Artist 1');
 insert into artists(name) values('Artist 2');
 insert into artists(name) values('Artist 3');
-insert into artists(name) values('Artist 4');
+insert into artists(name) values('Artist_4');
 insert into artists(name) values('Artist 5');
-insert into artists(name) values('Artist 6');
+insert into artists(name) values('Artist_6');
 insert into artists(name) values('Artist 7');
 insert into artists(name) values('Artist 8');
 
@@ -54,7 +54,7 @@ insert into tracks(name,length,album_id) values('Track 7',100,6);
 insert into tracks(name,length,album_id) values('My tune',100,6);
 insert into tracks(name,length,album_id) values('Track 9',90,7);
 insert into tracks(name,length,album_id) values('Track 10',150,8);
-insert into tracks(name,length,album_id) values('Мой трек',220,3);
+insert into tracks(name,length,album_id) values('РњРѕР№ С‚СЂРµРє',220,3);
 insert into tracks(name,length,album_id) values('Track 12',100,3);
 insert into tracks(name,length,album_id) values('Track 13',100,4);
 insert into tracks(name,length,album_id) values('Track 14',250,8);
